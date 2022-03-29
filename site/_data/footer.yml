@@ -1,0 +1,11 @@
+footer_menu__settings:
+  menu__items:
+    - title: Home
+      url: /
+    - title: Services
+      url: /projects/
+    - title: About
+      url: /about/
+    - title: Projects
+      url: /blog/
+copyright_text_html: <p>2022 &copy; <a href="/">Vonge</a>. Template</p>

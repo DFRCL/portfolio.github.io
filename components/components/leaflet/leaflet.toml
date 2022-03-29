@@ -1,0 +1,14 @@
+[component]
+structures = [ "content_blocks" ]
+label = "Leaflet"
+description = "Leaflet maps"
+icon = "wysiwyg"
+tags = ["HTML"]
+
+[props]
+content_html = ""
+mapbox_token = ""
+width = 100%
+height = 500px
+zoom = 7
+setview = (15.8760489,-89.9221243)
